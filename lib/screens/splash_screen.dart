@@ -94,7 +94,7 @@ class _SplashScreenState extends State<SplashScreen>
                 ),
                 const SizedBox(height: 8),
                 const Text(
-                  'Sua cozinha, seu livro.',
+                  'Cozinha',
                   style: TextStyle(
                     color: AppTheme.textoClaro,
                     fontSize: 13,
